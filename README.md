@@ -1,4 +1,7 @@
-https://user-images.githubusercontent.com/45542987/161818244-7ed0dc4a-c52e-43bc-8f12-f40d9843f056.mp4
+
+
+https://user-images.githubusercontent.com/45542987/161820209-694b7f9f-6313-4fdb-b41e-f7a3becf7e43.mov
+
 
 To run this bot you must first install a couple a couple things to be able to run the code.
 Follow the steps listed here to configure your Mac.
