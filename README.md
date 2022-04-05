@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/45542987/161818244-7ed0dc4a-c52e-43bc-8f12-f40d9843f056.mp4
+
 To run this bot you must first install a couple a couple things to be able to run the code.
 Follow the steps listed here to configure your Mac.
 1. Install Python:
@@ -23,4 +25,3 @@ Follow the steps listed here to configure your Mac.
 
 7. Install VSCode:
     Go to https://code.visualstudio.com/download and click the big blue button on the left "Mac"
-    
